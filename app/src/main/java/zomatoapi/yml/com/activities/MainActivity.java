@@ -53,12 +53,13 @@ public class MainActivity extends AppCompatActivity {
                     mRecyclerView.setLayoutManager(new LinearLayoutManager(MainActivity.this));
                     RestaurentCategoryAdapter adapter = new RestaurentCategoryAdapter(restaurentCategoryDetails);
                     mRecyclerView.setAdapter(adapter);
+
                 }
             }
 
             @Override
             public void onError(Throwable e) {
-
+                showToast(e.getMessage());
             }
         });
         mProgressBar.setVisibility(View.VISIBLE);
