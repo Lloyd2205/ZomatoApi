@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
                     mRecyclerView.setLayoutManager(new LinearLayoutManager(MainActivity.this));
                     RestaurentCategoryAdapter adapter = new RestaurentCategoryAdapter(restaurentCategoryDetails);
                     mRecyclerView.setAdapter(adapter);
+
                 }
             }
 
