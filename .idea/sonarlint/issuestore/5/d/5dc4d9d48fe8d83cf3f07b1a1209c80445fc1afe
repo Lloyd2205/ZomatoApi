@@ -1,0 +1,20 @@
+
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¬Ò˜é8ƒÜ°•å,
+Ÿsquid:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤8¿œˆ–å,
+dsquid:S1481)"ARemove this unused "restaurentCategoryObservable" local variable.(€¿èÝþÿÿÿÿ8µØã–å,
+Ÿsquid:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úÑ¯¤8å‰Ý–å,
+Ÿsquid:S1186e"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ÝŠÎ8¿œˆ–å,
+Psquid:S1068M"2Remove this unused "singleObserver" private field.(…þç™8å‰Ý–å,
+Gsquid:S1185€"(Remove this method to simply inherit it.(ÍÙ÷¢8ƒÜ°•å,
+Osquid:S1068^",Remove this unused "observer" private field.(îÅòšùÿÿÿÿ8¿œˆ–å,
+Nsquid:S1068"0Remove this unused "subscription" private field.(ÎÐýó8ƒÜ°•å,
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ŒÓË²8ƒÜ°•å,
+dsquid:S1481G"ARemove this unused "restaurentCategoryObservable" local variable.(€¿èÝþÿÿÿÿ8Ç£ƒ—å,
+ssquid:S1854)"PRemove this useless assignment to local variable "restaurentCategoryObservable".(€¿èÝþÿÿÿÿ8µØã–å,
+ssquid:S1854G"PRemove this useless assignment to local variable "restaurentCategoryObservable".(€¿èÝþÿÿÿÿ8Ç£ƒ—å,
+asquid:S3398{">Move this method into the anonymous class declared at line 94.(Àû…ðúÿÿÿÿ8ƒÜ°•å,
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ôù—Ë8ƒÜ°•å,
+¤squid:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸ÜÒÄøÿÿÿÿ8å‰Ý–å,
+¤squid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹³Íìþÿÿÿÿ8å‰Ý–å,
+¤squid:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸ÜÒÄøÿÿÿÿ8¿œˆ–å,
+lsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8ƒÜ°•å,

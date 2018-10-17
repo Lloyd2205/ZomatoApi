@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZomatoApi</string>
+    <string name="category_id">Category Id :</string>
+    <string name="category_name">Category Name :</string>
+</resources>
